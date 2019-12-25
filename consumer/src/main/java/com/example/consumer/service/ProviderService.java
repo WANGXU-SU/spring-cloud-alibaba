@@ -1,6 +1,6 @@
-package com.example.consumer.controller.service;
+package com.example.consumer.service;
 
-import com.example.consumer.controller.service.fallback.ProviderFallback;
+import com.example.consumer.service.fallback.ProviderFallback;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

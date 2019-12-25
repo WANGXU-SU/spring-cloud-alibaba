@@ -1,6 +1,6 @@
-package com.example.consumer.controller.service.fallback;
+package com.example.consumer.service.fallback;
 
-import com.example.consumer.controller.service.ProviderService;
+import com.example.consumer.service.ProviderService;
 import org.springframework.stereotype.Component;
 
 /**
