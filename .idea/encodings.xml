@@ -4,6 +4,8 @@
     <file url="file://$PROJECT_DIR$/consumer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/getway/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/provider/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/provider2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rocket-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rocket/src/main/java" charset="UTF-8" />
   </component>
 </project>

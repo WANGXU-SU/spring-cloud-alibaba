@@ -5,7 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/consumer/consumer.iml" filepath="$PROJECT_DIR$/consumer/consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/getway/getway.iml" filepath="$PROJECT_DIR$/getway/getway.iml" />
       <module fileurl="file://$PROJECT_DIR$/provider/provider.iml" filepath="$PROJECT_DIR$/provider/provider.iml" />
-      <module fileurl="file://$PROJECT_DIR$/provider1/provider1.iml" filepath="$PROJECT_DIR$/provider1/provider1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider1/provider (1).iml" filepath="$PROJECT_DIR$/provider1/provider (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocket/rocket.iml" filepath="$PROJECT_DIR$/rocket/rocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocket-consumer/rocket-consumer.iml" filepath="$PROJECT_DIR$/rocket-consumer/rocket-consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloud-alibaba.iml" filepath="$PROJECT_DIR$/.idea/spring-cloud-alibaba.iml" />
     </modules>
   </component>

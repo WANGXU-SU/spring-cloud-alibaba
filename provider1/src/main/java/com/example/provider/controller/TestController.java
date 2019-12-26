@@ -23,6 +23,6 @@ public class TestController {
 
     @GetMapping("demo/{str}")
     public String demo(@PathVariable("str") String str) {
-        return serverPort + "----" + str+"----"+applicationContext.getEnvironment().getProperty("user.name");
+        return applicationContext.getEnvironment().getProperty("server.port") + "----" + str+"----"+applicationContext.getEnvironment().getProperty("user.name");
     }
 }

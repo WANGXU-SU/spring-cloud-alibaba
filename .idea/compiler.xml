@@ -6,17 +6,25 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="consumer" />
-        <module name="provider1" />
+        <module name="skywalking" />
         <module name="provider" />
+        <module name="rocket-consumer" />
+        <module name="provider (1)" />
+        <module name="rocket" />
         <module name="getway" />
+        <module name="consumer" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="consumer" target="1.8" />
       <module name="getway" target="1.8" />
       <module name="provider" target="1.8" />
+      <module name="provider (1)" target="1.8" />
       <module name="provider1" target="1.8" />
+      <module name="rocket" target="1.8" />
+      <module name="rocket-consumer" target="1.8" />
+      <module name="rocketmq" target="1.8" />
+      <module name="skywalking" target="1.8" />
       <module name="spring-cloud-alibaba" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -25,7 +33,12 @@
       <module name="consumer" options="-parameters" />
       <module name="getway" options="-parameters" />
       <module name="provider" options="-parameters" />
+      <module name="provider (1)" options="-parameters" />
       <module name="provider1" options="-parameters" />
+      <module name="rocket" options="-parameters" />
+      <module name="rocket-consumer" options="-parameters" />
+      <module name="rocketmq" options="-parameters" />
+      <module name="skywalking" options="-parameters" />
     </option>
   </component>
 </project>
